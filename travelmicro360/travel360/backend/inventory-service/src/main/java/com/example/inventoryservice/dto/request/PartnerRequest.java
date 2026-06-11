@@ -1,0 +1,3 @@
+package com.example.inventoryservice.dto.request;
+import jakarta.validation.constraints.NotBlank;
+public class PartnerRequest { @NotBlank private String name; private String type; private String status; public String getName(){return name;} public void setName(String v){this.name=v;} public String getType(){return type;} public void setType(String v){this.type=v;} public String getStatus(){return status;} public void setStatus(String v){this.status=v;} }

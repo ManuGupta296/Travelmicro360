@@ -1,0 +1,4 @@
+package com.example.complianceservice.dto.response;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+public class KPIReportResponse { private Long kpiId; private String metricName; private Double metricValue; private LocalDate reportDate; private String period; private LocalDateTime createdAt; public Long getKpiId(){return kpiId;} public void setKpiId(Long v){this.kpiId=v;} public String getMetricName(){return metricName;} public void setMetricName(String v){this.metricName=v;} public Double getMetricValue(){return metricValue;} public void setMetricValue(Double v){this.metricValue=v;} public LocalDate getReportDate(){return reportDate;} public void setReportDate(LocalDate v){this.reportDate=v;} public String getPeriod(){return period;} public void setPeriod(String v){this.period=v;} public LocalDateTime getCreatedAt(){return createdAt;} public void setCreatedAt(LocalDateTime v){this.createdAt=v;} }

@@ -1,0 +1,43 @@
+# ============ IDE ============
+.idea/
+.vscode/
+.claude/
+*.iml
+*.iws
+*.ipr
+*.suo
+*.user
+
+# ============ OS ============
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============ Logs ============
+*.log
+logs/
+
+# ============ Environment / Secrets ============
+.env
+.env.local
+.env.production
+.env.development
+*.local
+
+# ============ Maven build output ============
+**/target/
+
+# ============ Node ============
+**/node_modules/
+**/build/
+**/dist/
+
+# ============ Sensitive Spring config — ENSURE NOT COMMITTED ============
+# Local-only overrides (if you choose to use them)
+**/application-local.properties
+**/application-prod.properties
+
+# ============ Misc ============
+*.bak
+*.swp
+*~

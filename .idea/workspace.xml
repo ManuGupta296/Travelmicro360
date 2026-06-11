@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2447e064-7468-4040-8d4b-226e87bb628f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="ccaabbe3-5255-472b-b90b-a56614bfcc1a" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="72f78e04-68b5-417c-ba25-91581a382fcf" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="claude-opus-4.6" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="bee51d28-df53-4498-b877-4e7506ce255b" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="78cf983d-f8a3-4d4e-aa83-3b79ae595a20" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="ccaabbe3-5255-472b-b90b-a56614bfcc1a" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/2492296/Downloads/travelmicro360" value="3EL3YbwTkR5wU4hyt0Si493UWZj" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3324752910295348" />
+      <entry key="MS500" value="2.7226854621023877" />
+      <entry key="S2" value="4.560800318487484" />
+      <entry key="S5" value="5.337732310612299" />
+      <entry key="S10" value="5.652244391426594" />
+      <entry key="S30" value="5.880157047010632" />
+      <entry key="S60" value="5.939572879534649" />
+      <entry key="M2" value="5.970449172226258" />
+      <entry key="M5" value="6.172415625408632" />
+      <entry key="M10" value="7.130607613829354" />
+      <entry key="M15" value="8.079449772161308" />
+      <entry key="M30" value="9.81694409913054" />
+      <entry key="H1" value="11.16936435315997" />
+      <entry key="H2" value="12.019262365035221" />
+      <entry key="H4" value="12.830646114600963" />
+      <entry key="D1" value="51.752104728790385" />
+      <entry key="W1" value="174.43016018057753" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="1.3206709959060164E-233" />
+      <entry key="M5" value="7.052090159897006E-94" />
+      <entry key="M10" value="2.6555771801808005E-47" />
+      <entry key="M15" value="8.901009926170949E-32" />
+      <entry key="M30" value="2.983456037244551E-16" />
+      <entry key="H1" value="1.7272683744122104E-8" />
+      <entry key="H2" value="1.3142559854587287E-4" />
+      <entry key="H4" value="0.01147049355508817" />
+      <entry key="D1" value="0.811399703984604" />
+      <entry key="W1" value="3.0933107183468582" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.165118882755288" />
+      <entry key="MS500" value="2.4171130584459624" />
+      <entry key="S2" value="4.426321411234146" />
+      <entry key="S5" value="5.276996916603653" />
+      <entry key="S10" value="5.6205975912976545" />
+      <entry key="S30" value="5.869311389311438" />
+      <entry key="S60" value="5.934112147447921" />
+      <entry key="M2" value="5.967708879289285" />
+      <entry key="M5" value="6.171281047014594" />
+      <entry key="M10" value="7.129946281826336" />
+      <entry key="M15" value="8.0789467107069" />
+      <entry key="M30" value="9.816635625559996" />
+      <entry key="H1" value="11.169187969515052" />
+      <entry key="H2" value="12.019298634933357" />
+      <entry key="H4" value="12.842066107996116" />
+      <entry key="D1" value="52.563462704261106" />
+      <entry key="W1" value="177.5234460944919" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EL3YbwTkR5wU4hyt0Si493UWZj" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="claude-haiku-4.5" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BookingServiceTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/2492296/Downloads/travelmicro360",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BookingServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="booking-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bookingservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bookingservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bookingservice.service.BookingServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookingServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2447e064-7468-4040-8d4b-226e87bb628f" name="Changes" comment="" />
+      <created>1779944070965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779944070965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+package com.example.paymentservice.dto.request;
+import jakarta.validation.constraints.NotNull;
+import java.math.BigDecimal;
+public class PaymentRequest { @NotNull private Long bookingId; @NotNull private BigDecimal amount; private String method; private String transactionRef; public Long getBookingId(){return bookingId;} public void setBookingId(Long v){this.bookingId=v;} public BigDecimal getAmount(){return amount;} public void setAmount(BigDecimal v){this.amount=v;} public String getMethod(){return method;} public void setMethod(String v){this.method=v;} public String getTransactionRef(){return transactionRef;} public void setTransactionRef(String v){this.transactionRef=v;} }

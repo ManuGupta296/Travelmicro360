@@ -1,0 +1,4 @@
+package com.example.paymentservice.exception;
+import org.springframework.http.*;
+import org.springframework.web.bind.annotation.*;
+@RestControllerAdvice public class GlobalExceptionHandler { @ExceptionHandler(ResourceNotFoundException.class) public ResponseEntity<ApiError> handleNotFound(ResourceNotFoundException ex){return ResponseEntity.status(HttpStatus.NOT_FOUND).body(new ApiError(404,ex.getMessage()));} @ExceptionHandler(BadRequestException.class) public ResponseEntity<ApiError> handleBad(BadRequestException ex){return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(new ApiError(400,ex.getMessage()));} }

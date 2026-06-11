@@ -1,0 +1,4 @@
+package com.example.complianceservice.dto.request;
+import jakarta.validation.constraints.NotBlank;
+import java.time.LocalDate;
+public class KPIReportRequest { @NotBlank private String metricName; private Double metricValue; private LocalDate reportDate; private String period; public String getMetricName(){return metricName;} public void setMetricName(String v){this.metricName=v;} public Double getMetricValue(){return metricValue;} public void setMetricValue(Double v){this.metricValue=v;} public LocalDate getReportDate(){return reportDate;} public void setReportDate(LocalDate v){this.reportDate=v;} public String getPeriod(){return period;} public void setPeriod(String v){this.period=v;} }

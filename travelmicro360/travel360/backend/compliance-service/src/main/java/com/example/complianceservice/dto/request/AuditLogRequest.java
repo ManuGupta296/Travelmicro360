@@ -1,0 +1,3 @@
+package com.example.complianceservice.dto.request;
+import jakarta.validation.constraints.NotBlank;
+public class AuditLogRequest { @NotBlank private String action; private String entityType; private Long entityId; private String performedBy; private String details; public String getAction(){return action;} public void setAction(String v){this.action=v;} public String getEntityType(){return entityType;} public void setEntityType(String v){this.entityType=v;} public Long getEntityId(){return entityId;} public void setEntityId(Long v){this.entityId=v;} public String getPerformedBy(){return performedBy;} public void setPerformedBy(String v){this.performedBy=v;} public String getDetails(){return details;} public void setDetails(String v){this.details=v;} }

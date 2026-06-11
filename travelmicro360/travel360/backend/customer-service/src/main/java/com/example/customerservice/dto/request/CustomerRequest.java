@@ -1,0 +1,3 @@
+package com.example.customerservice.dto.request;
+import jakarta.validation.constraints.*;
+public class CustomerRequest { @NotBlank private String name; @Email @NotBlank private String email; private String phone; private String address; private Long userId; public String getName(){return name;} public void setName(String v){this.name=v;} public String getEmail(){return email;} public void setEmail(String v){this.email=v;} public String getPhone(){return phone;} public void setPhone(String v){this.phone=v;} public String getAddress(){return address;} public void setAddress(String v){this.address=v;} public Long getUserId(){return userId;} public void setUserId(Long v){this.userId=v;} }

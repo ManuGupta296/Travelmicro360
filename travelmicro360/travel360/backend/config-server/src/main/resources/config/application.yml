@@ -1,0 +1,35 @@
+# Shared configuration applied to every service that imports from this config server.
+jwt:
+  secret: ${JWT_SECRET:dev-only-change-me-jwt-secret-min-32-bytes-0123456789}
+  expiration-ms: 3600000
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
+
+spring:
+  datasource:
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:changeme}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.MySQLDialect
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+
+travel360:
+  cors:
+    allowed-origins: http://localhost:3000,http://localhost:3002
